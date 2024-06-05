@@ -161,4 +161,12 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
+
+# This file lists all individuals having contributed content to the repository.
+
+Jennifer Huang <133@holbertonschool.com>
+Alexa Orrico <210@holbertonschool.com>
+Joann Vuong <130@holbertonschool.com> 
+
+Hana Abdalhag <eng.hana95@gmail.com> 
